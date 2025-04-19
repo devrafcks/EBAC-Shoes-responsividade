@@ -1,7 +1,10 @@
 # 🛍️ EBAC Shoes - Responsividade
-![image](https://github.com/user-attachments/assets/a6675c85-b336-4b73-92dd-c58173a054f6)
-![image](https://github.com/user-attachments/assets/be48de31-d627-41e3-b7d3-915e44e159d6)
-![image](https://github.com/user-attachments/assets/656e1398-f0fb-40b3-baab-3395063c2e65)
+
+![Desktop](https://github.com/user-attachments/assets/a6675c85-b336-4b73-92dd-c58173a054f6)
+![Tablet](https://github.com/user-attachments/assets/be48de31-d627-41e3-b7d3-915e44e159d6)
+![Mobile](https://github.com/user-attachments/assets/656e1398-f0fb-40b3-baab-3395063c2e65)
+
+🔗 Acesse o projeto online: [EBAC Shoes - GitHub Pages](https://devrafcks.github.io/EBAC-Shoes-responsividade/)
 
 Projeto desenvolvido como parte do módulo de **Responsividade** do curso de Front-End da EBAC.
 
